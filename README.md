@@ -9,3 +9,6 @@
 ## Julio Ernesto González Sánchez
 ### Rol:
 ### Correo: juliogonzalez75@aragon.unam.mx
+## Leonardo Santiago García
+### Rol: EQuipo
+### Correo: leonardosantiago94@aragon.unam.mx
