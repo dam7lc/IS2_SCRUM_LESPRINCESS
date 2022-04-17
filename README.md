@@ -1,7 +1,7 @@
 # IS2_SCRUM_LESPRINCESS
 
 ## Damián Gerardo Pérez Hernández 
-### Rol: Equipo
+### Rol: Equipo Scrum
 ### Correo: damianhernandez76@aragon.unam.mx
 ## Humberto Maldonado Guell
 ### Rol:
@@ -10,5 +10,8 @@
 ### Rol:
 ### Correo: juliogonzalez75@aragon.unam.mx
 ## Leonardo Santiago García
-### Rol: EQuipo
+### Rol: Equipo Scrum
 ### Correo: leonardosantiago94@aragon.unam.mx
+## Leslie Raziel Dávila Manra
+### Rol: Equipo Scrum
+### Correo: lesliemanra89@aragon.unam.mx
