@@ -4,7 +4,7 @@
 ### Rol: Equipo Scrum
 ### Correo: damianhernandez76@aragon.unam.mx
 ## Humberto Maldonado Guell
-### Rol:
+### Rol: Equipo Scrum
 ### Correo: humbertomaldonado25@aragon.unam.mx
 ## Julio Ernesto González Sánchez
 ### Rol:
