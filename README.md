@@ -15,3 +15,6 @@
 ## Leslie Raziel Dávila Manra
 ### Rol: Equipo Scrum
 ### Correo: lesliemanra89@aragon.unam.mx
+## Gabriela de Jesús Torres Elizarraras
+### Rol: Equipo Scrum
+### Correo: gabrielaelizarraras84@aragon.unam.mx
