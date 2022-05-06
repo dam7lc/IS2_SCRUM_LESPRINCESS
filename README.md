@@ -21,3 +21,6 @@
 ## Esteban Hunab Ortega Chávez
 ### Rol: Scrum Master
 ### Correo: estebanortega316@aragon.unam.mx
+## Daniel Sanchez Cortes
+### Rol: Equipo Scrum
+### Correo: danielsanchez316@aragon.unam.mx
