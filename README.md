@@ -7,7 +7,7 @@
 ### Rol: Equipo Scrum
 ### Correo: humbertomaldonado25@aragon.unam.mx
 ## Julio Ernesto González Sánchez
-### Rol:
+### Rol: Equipo Scrum
 ### Correo: juliogonzalez75@aragon.unam.mx
 ## Leonardo Santiago García
 ### Rol: Equipo Scrum
@@ -18,3 +18,6 @@
 ## Gabriela de Jesús Torres Elizarraras
 ### Rol: Equipo Scrum
 ### Correo: gabrielaelizarraras84@aragon.unam.mx
+## Esteban Hunab Ortega Chávez
+### Rol: Scrum Master
+### Correo: estebanortega316@aragon.unam.mx
